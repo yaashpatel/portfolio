@@ -1,2 +1,2 @@
 # portfolio
-Professional portfolio website for Yaash Patel
+Professional portfolio website for Yash Patel
